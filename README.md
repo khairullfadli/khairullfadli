@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there I'm Khairul <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="40px"> 😊
 
 <!--
 **khairullfadli/khairullfadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
